@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**zgsgs/zgsgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jason（杰森）.
 
-Here are some ideas to get you started:
+Jason is my pen name and I like it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Introduction
+
+- 👨‍💻 A front-end developer.
+- 🔭 I'm currently working in [NINT](https://nint.com).
+- 🌱 I'm currently learning English.
+- 💬 Be free to ask me about anything [here](https://github.com/zgsgs/zgsgs/issues).
+- 📫 How to reach me: Mail me at [594zhaogaosheng@gmail.com](mailto:594zhaogaosheng@gmail.com).
+
+### Language
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason&layout=compact&bg_color=ffffff)
+
+### GitHub Stats
+
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff)
+
+![Profile views](https://komarev.com/ghpvc/?username=Jason&color=red)
